@@ -42,7 +42,7 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ### Bug/Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/quanglddev/True-Value-Trading/issues/new) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and/or gave undesired results), kindly open an issue [here](https://github.com/quanglddev/True-Value-Trading/issues/new) by including your search query and the expected result.
 
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/quanglddev/True-Value-Trading/issues/new). Please include sample queries and their corresponding results.
 
@@ -60,7 +60,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ## Team
 [![Quang Luong](https://avatars1.githubusercontent.com/u/42598512?s=460&u=95e4c6c1c0467858ffbf8df18eeefe6afb869cb7&v=4)](https://github.com/quanglddev) |
 ---|
-[Harsh Vijay ](https://github.com/iharsh234) |
+[Quang Luong](https://github.com/quanglddev) |
 
 ## [License](https://github.com/quanglddev/True-Value-Trading/blob/master/LICENSE.md)
 
