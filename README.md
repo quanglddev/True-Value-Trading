@@ -54,7 +54,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## To-do
 - Add options chain with automatic contract rating
-- Add more stocks that are compatible with this trading stragety
+- Add more stocks that are compatible with this trading strategy
 - Add support for mobile devices
 
 ## Team
