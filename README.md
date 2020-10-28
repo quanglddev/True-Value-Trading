@@ -1,3 +1,6 @@
+# ![Trading Strategy](https://github.com/quanglddev/StockBot/blob/media/demo_landing.png?raw=true)
+
+
 # StockBotAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
