@@ -1,5 +1,12 @@
 # ![Trading Strategy](https://github.com/quanglddev/StockBot/blob/media/demo_landing.png?raw=true)
-
+# Trading Strategy
+<table>
+<tr>
+<td>
+  A web-app using TD Ameritrade API to display different trading strategies that I've come across. It helps predict the movement of stocks based on the performace in the past. It helps to quickly identify underperforming blue-chip stocks, with the principle of swing trading, which yield high returns.
+</td>
+</tr>
+</table>
 
 # StockBotAngular
 
